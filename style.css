@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    text-align: center;
+    background-color: black;
+    font-family: Georgia, serif;
+}
+h2 {
+    color: black;
+    font-family: Georgia, serif;
+    text-transform: capitalize;
+}
+.general {
+    background-color: grey;
+    font-family: Georgia, serif;
+    
+}
+.yone {
+    image-rendering: auto;
+
+}
+
